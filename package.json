@@ -1,0 +1,16 @@
+{
+  "name": "barber-shop-bot",
+  "version": "2.0.0",
+  "description": "Telegram bot for premium barber shop (Supabase)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.15.0",
+    "dotenv": "^16.4.5",
+    "@supabase/supabase-js": "^2.43.0"
+  }
+}
